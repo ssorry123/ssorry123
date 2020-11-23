@@ -8,15 +8,16 @@
     - ⚡ Always Running
         - ProblemSolving
     - ⚡ Running
-        - PrivateTextPlatform
         - 4_2_CG
+        - Java
 
     <br>
 
     - 🔺 Ready
         - newLinearDataStructure
-        - C_CC
+        - PrivateTextPlatform
     - ❌ Blocked(Stopped)
+        - C_CC
         - groomedu_python_gui
         - OperatingSystem
     
@@ -31,7 +32,7 @@
 
 ---
 
-- 🏫
+- 🏫 Computer Science
     - Univ. of Seoul
 
 - 📫 How to reach me
