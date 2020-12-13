@@ -10,12 +10,12 @@
     - ⚡ Running
         - 4_2_CG
         - Java
+        - PrivateTextPlatform
 
     <br>
 
     - 🔺 Ready
         - newLinearDataStructure
-        - PrivateTextPlatform
     - ❌ Blocked(Stopped)
         - C_CC
         - groomedu_python_gui
