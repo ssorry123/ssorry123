@@ -8,9 +8,9 @@
     - ⚡ Always Running
         - ProblemSolving
     - ⚡ Running
-        - 4_2_CG
         - Java
         - PrivateTextPlatform
+        - GIT
 
     <br>
 
