@@ -32,9 +32,6 @@
 
 ---
 
-- 🏫 Computer Science
-    - Univ. of Seoul
-
 - 📫 How to reach me
     - main : 26060283@naver.com
     - sub  : syd03160@gmail.com
