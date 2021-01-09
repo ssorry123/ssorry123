@@ -9,12 +9,13 @@
         - ProblemSolving
     - ⚡ Running
         - Java
-        - PrivateTextPlatform
+        - JSPnSERVLET
         - GIT
 
     <br>
 
     - 🔺 Ready
+        - PrivateTextPlatform
         - newLinearDataStructure
     - ❌ Blocked(Stopped)
         - C_CC
