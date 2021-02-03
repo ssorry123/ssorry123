@@ -5,30 +5,33 @@
 ---
 
 - 🤔 Repo.
-    - ⚡ Always Running
+    - ⚡ PS
         - ProblemSolving
-    - ⚡ Running
+
+    <br>
+
+    - 🔺 Learn
         - Java
         - JSPnSERVLET
         - GIT
 
     <br>
 
-    - 🔺 Ready
+    - ⚡ Project
+        - Web_SimpleBoard
         - PrivateTextPlatform
         - newLinearDataStructure
-    - ❌ Blocked(Stopped)
+        - 4_1_capstone(terminated)
+        - 4_1_CCtermP(terminated)
+
+    <br>
+
+    - 🔺 Storage (Stopped)
+        - X_X_UOS
         - C_CC
         - groomedu_python_gui
         - OperatingSystem
     
-    <br>
-
-    - 🐭 terminated or Storing Purpose
-        - X_X_UOS
-        - 4_1_capstone
-        - 4_1_CCtermP
-
 <br>
 
 ---
