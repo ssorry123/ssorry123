@@ -35,14 +35,6 @@
 <br>
 
 ---
-
-- 📫 How to reach me
-    - main : 26060283@naver.com
-    - sub  : syd03160@gmail.com
-
-<br>
-
----
 <!--
 **ssorry123/ssorry123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
